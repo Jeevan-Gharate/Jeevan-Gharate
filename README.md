@@ -1,7 +1,7 @@
 ![Alt Text](https://media.giphy.com/media/115BJle6N2Av0A/giphy.gif)
 
 - 👋 Hey Folks, I’m @Jeevan-Gharate
-- 👀 I’m interested in Ethical Hacking
+- 👀 I’m a Cyber Security Inthusiast
 - 🌱 I’m currently learning everything Techy🤣
 - 📫 How to Reach me: [Twitter](https://twitter.com/jeevan50820470)
 
