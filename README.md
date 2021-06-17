@@ -13,6 +13,14 @@
 [<img align="left" alt="mechx_gamerz_yt | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.Jeevan-Gharate.vercel.app/api?username=Jeevan-Gharate&show_icons=true&hide_border=true" />
+
+</details>
+
+
 [twitter]: https://twitter.com/jeevan50820470
 [youtube]: https://www.youtube.com/channel/UCTBsQTFMqzbBmtPI-y7s1bQ
 [instagram]: https://www.instagram.com/mechx_gamerz_yt/
