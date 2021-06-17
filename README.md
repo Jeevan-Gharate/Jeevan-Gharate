@@ -1,5 +1,5 @@
-
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 - 👋 Hey Folks, I’m @Jeevan-Gharate
 - 👀 I’m interested in Ethical Hacking
 - 🌱 I’m currently learning everything Techy🤣
