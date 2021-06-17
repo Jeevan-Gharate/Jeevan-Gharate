@@ -14,13 +14,6 @@
 
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Jeevan-Gharate's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jeevan-Gharate&show_icons=true&hide_border=true" />
-
-</details>
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeevan-Gharate)](https://github.com/anuraghazra/github-readme-stats)
 
 
