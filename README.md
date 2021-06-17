@@ -18,6 +18,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeevan-Gharate)](https://github.com/anuraghazra/github-readme-stats)
 
 
+### TryHackMe Profile: 
+
+![jeevanpro](<img src="https://tryhackme-badges.s3.amazonaws.com/jeevanpro.png" alt="TryHackMe">)
+
+
 [twitter]: https://twitter.com/jeevan50820470
 [youtube]: https://www.youtube.com/channel/UCTBsQTFMqzbBmtPI-y7s1bQ
 [instagram]: https://www.instagram.com/mechx_gamerz_yt/
