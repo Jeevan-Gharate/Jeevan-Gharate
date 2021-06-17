@@ -1,8 +1,8 @@
 ![Alt Text](https://media.giphy.com/media/115BJle6N2Av0A/giphy.gif)
 
 - 👋 Hey Folks, I’m @Jeevan-Gharate
-- 👀 I’m a Cyber Security Inthusiast
-- 🌱 I’m currently learning everything Techy🤣
+- ✔ I’m a <b><i>Cyber Security Inthusiast</i></b>
+- ✔ I’m currently learning <i>How to Break Stuff</i>🤣
 - 📫 How to Reach me: [Twitter](https://twitter.com/jeevan50820470)
 
 ## ⁜ Achievements:
@@ -23,6 +23,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeevan-Gharate)](https://github.com/anuraghazra/github-readme-stats)
 
+## ⁜ TryHackMe Profile Badge:
 
 
 [twitter]: https://twitter.com/jeevan50820470
