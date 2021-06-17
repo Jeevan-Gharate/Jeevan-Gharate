@@ -5,6 +5,10 @@
 - 🌱 I’m currently learning everything Techy🤣
 - 📫 How to Reach me: [Twitter](https://twitter.com/jeevan50820470)
 
+### Achievements:
+
+<b>eJPT | Hacker and Penetration Tester | Python Programmer | Still Learner</b>
+
 ### Connect With Me:
 
 [<img align="left" alt="MeChX GaMerZ | YouTube" width="85px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
