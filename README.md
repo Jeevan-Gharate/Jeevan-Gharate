@@ -20,7 +20,7 @@
 
 ### TryHackMe Profile: 
 
-![jeevanpro](https://tryhackme-badges.s3.amazonaws.com/jeevanpro.png)
+<img src="https://tryhackme-badges.s3.amazonaws.com/jeevanpro.png" alt="TryHackMe">
 
 
 [twitter]: https://twitter.com/jeevan50820470
