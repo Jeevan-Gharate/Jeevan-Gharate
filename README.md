@@ -31,7 +31,7 @@
 
 [twitter]: https://twitter.com/jeevan50820470
 [youtube]: https://www.youtube.com/channel/UCTBsQTFMqzbBmtPI-y7s1bQ
-[instagram]: https://www.instagram.com/mechx_gamerz_yt/
+[instagram]: https://www.instagram.com/cyber_zyro_yt/
 [linkedin]: https://www.linkedin.com/in/jeevan-gharate-4b3943203/
 [medium]: https://mechx.medium.com/
 [discord]: https://discordapp.com/users/Jeevan#2343
