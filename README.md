@@ -1,7 +1,7 @@
 ![Alt Text](https://media.giphy.com/media/115BJle6N2Av0A/giphy.gif)
 
 - 👋 Hey Folks, I’m @Jeevan-Gharate
-- ✔ I’m a <b><i>Cyber Security Inthusiast</i></b>
+- ✔ I’m a <b><i>Cyber Security Enthusiast</i></b>
 - ✔ I’m currently learning <i>How to Break Stuff</i>🤣
 - 📫 How to Reach me: [Twitter](https://twitter.com/cyberzyro1)
 
