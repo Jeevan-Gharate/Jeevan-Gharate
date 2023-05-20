@@ -3,7 +3,7 @@
 - 👋 Hey Folks, I’m @Jeevan-Gharate
 - ✔ I’m a <b><i>Cyber Security Inthusiast</i></b>
 - ✔ I’m currently learning <i>How to Break Stuff</i>🤣
-- 📫 How to Reach me: [Twitter](https://twitter.com/jeevan50820470)
+- 📫 How to Reach me: [Twitter](https://twitter.com/cyberzyro1)
 
 ## ⁜ Achievements:
 
