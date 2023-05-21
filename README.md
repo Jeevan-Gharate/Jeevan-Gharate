@@ -23,7 +23,6 @@
 
 ## ⁜ Github Stats:
 
-<!---[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeevan-Gharate)](https://github.com/anuraghazra/github-readme-stats)--->
 ![Jeevan Gharate's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeevan-Gharate&theme=dark&show_icons=true)
 
 
