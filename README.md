@@ -30,7 +30,7 @@
 
 ![jeevanpro](https://user-images.githubusercontent.com/59790218/127736606-ad926642-c531-4c7e-8210-e713439b3f47.png)
 
-[twitter]: https://twitter.com/jeevan50820470
+[twitter]: https://x.com/cyberzyro1
 [youtube]: https://www.youtube.com/channel/UCTBsQTFMqzbBmtPI-y7s1bQ
 [instagram]: https://www.instagram.com/cyber_zyro_yt/
 [linkedin]: https://www.linkedin.com/in/jeevan-gharate-4b3943203/
