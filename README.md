@@ -1,3 +1,4 @@
+<div align="center">
 ![Alt Text](https://media.giphy.com/media/115BJle6N2Av0A/giphy.gif)
 
 <h1 align="center">
@@ -41,3 +42,4 @@
 [linkedin]: https://www.linkedin.com/in/jeevan-gharate-4b3943203/
 [medium]: https://mechx.medium.com/
 [discord]: https://discordapp.com/users/Jeevan#2343
+</div>
