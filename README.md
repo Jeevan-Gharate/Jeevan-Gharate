@@ -29,6 +29,7 @@
 
 ## ⁜ Github Stats:
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jeevan-Gharate&theme=dark)](https://git.io/streak-stats)
 ![Jeevan Gharate's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeevan-Gharate&theme=dark&show_icons=true)
 
 
