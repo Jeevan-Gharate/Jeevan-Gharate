@@ -15,7 +15,7 @@
 
 ## ⁜ Achievements:
 
-<b>eJPT, CEH, Security+, CSFPC🥇 | Hacker and Penetration Tester 🕵️‍♀️ | Python Programmer 💻 | Still Learner 👑🏃‍♂️🙌</b>
+<b>OSCP, eJPT, CEH, Security+, CSFPC🥇 | Hacker and Penetration Tester 🕵️‍♀️ | Python Programmer 💻 | Still Learner 👑🏃‍♂️🙌</b>
 
 ## ⁜ Connect With Me:
 
